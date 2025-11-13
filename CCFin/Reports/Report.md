@@ -85,31 +85,6 @@ Sa popularité dans les études de machine learning s’explique par son équili
 
 ---
 
-## 7. QCM — Évaluation de compréhension
-
-1. **Combien d’instances contient la base Car Evaluation ?**  
-   - [ ] 1 000  
-   - [ ] 1 500  
-   - [x] 1 728  
-   - [ ] 2 000  
-
-2. **Combien d’attributs d’entrée comporte-t-elle (hors classe) ?**  
-   - [ ] 4  
-   - [ ] 5  
-   - [x] 6  
-   - [ ] 7  
-
-3. **Quelle est la variable cible (classe) ?**  
-   - [ ] low, medium, high  
-   - [x] unacc, acc, good, vgood  
-   - [ ] bad, average, good  
-   - [ ] unacceptable, acceptable, excellent  
-
-4. **Quel critère n’appartient pas à la hiérarchie d’origine ?**  
-   - [ ] PRICE  
-   - [ ] COMFORT  
-   - [ ] SAFETY  
-   - [x] TECH  
 
 5. **Quel outil ou méthode a inspiré la création du modèle ?**  
    - [ ] AHP  
