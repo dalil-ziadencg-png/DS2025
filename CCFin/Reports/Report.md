@@ -1,7 +1,7 @@
 # Rapport sur la base de données “Car Evaluation”
 
 ## 1. Introduction
-La base de données **Car Evaluation** est un ensemble de données dérivé d’un **modèle de décision hiérarchique simple** conçu pour évaluer l’acceptabilité d’une voiture selon plusieurs critères.  
+La base de données **Car Evaluation** est un ensemble de données dérivée d’un **modèle de décision hiérarchique simple** conçu pour évaluer l’acceptabilité d’une voiture selon plusieurs critères.  
 Elle est fréquemment utilisée dans le domaine de l’**apprentissage automatique** pour tester des méthodes de **classification**, de **construction de structure hiérarchique** et d’**induction constructive**.  
 
 Cette base de données a été créée à partir du modèle de décision **DEX (Decision Expert)**, développé par **Marko Bohanec** et **Vladislav Rajkovič** afin de démontrer la méthodologie d’évaluation multicritère.
